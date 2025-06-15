@@ -1,17 +1,17 @@
 ## Visual Hierarchy Editor (React + React Flow)
 
-A visual editor for structuring and managing homepage sections using React Flow. Drag, reorder, and customize your homepage tree dynamically — with full state management and interaction support.
+A visual editor for structuring and managing homepage sections using React Flow. Drag, reorder, and customize your homepage tree dynamically - with full state management and interaction support.
 
 ---
 
 ## Tech Stack
 
-**React** (Vite)
-**React Flow** - for graph visualization
-**DndKit** - for smooth drag-and-drop
-**TailwindCSS** - for responsive design
-**Vitest** + **React Testing Library** - for unit + UI testing
-**LocalStorage** - for saving/loading layout state
+- **React** (Vite)
+- **React Flow** - for graph visualization
+- **DndKit** - for smooth drag-and-drop
+- **TailwindCSS** - for responsive design
+- **Vitest** + **React Testing Library** - for unit + UI testing
+- **LocalStorage** - for saving/loading layout state
 
 ---
 
@@ -27,11 +27,21 @@ A visual editor for structuring and managing homepage sections using React Flow.
 
 ---
 
+## Demo
+
+**Live Application**
+[Deployed Link (Vercel)](https://nitin-kurmi-frontend-developer.vercel.app/)
+
+**Demonstration Video**
+[Demo Video](https://drive.google.com/file/d/1IXG3rHZRDGA7ihICIKeNITagC7tpP5oB/view?usp=sharing)
+
+---
+
 ## Installation
 
 ```bash
 # Clone repo
-git clone <your-repo-url>
+git clone https://github.com/nitinkurmi23/Nitin-Kurmi-Frontend-Developer.git
 cd visual-hierarchy-editor
 
 # Install dependencies
@@ -66,9 +76,6 @@ visual-hierarchy-editor/
 ---
 
 ## Screenshots
-
-**Full Application Demo**
-[Application Demo](./screenshots/application-demo.mp4)
 
 **Full Visual Hierarchy Editor UI**
 ![Main UI](./screenshots/main-ui.png)
